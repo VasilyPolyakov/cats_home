@@ -1,7 +1,4 @@
-# Project Name
-
-*Cats home*
-
+# Cats home
 
 It is prototype of the cats web store.
 
