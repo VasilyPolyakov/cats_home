@@ -1,0 +1,13 @@
+{
+  "id": 5,
+  "vaccinated": true,
+  "price": 210,
+  "name": "Maggie",
+  "breed": "Russian blue",
+  "gender": 0,
+  "birthday": 1399939200,
+  "description": "Very good and silent cat.",
+  "photos": [
+    "js/assets/images/cats/maggie_800x600.png"
+  ]
+}

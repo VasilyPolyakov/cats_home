@@ -1,0 +1,13 @@
+{
+  "id": 6,
+  "vaccinated": false,
+  "price": 180,
+  "name": "Todd",
+  "breed": "Scottish Fold",
+  "gender": 1,
+  "birthday": 1399939200,
+  "description": "Very good and accurate cat.",
+  "photos": [
+    "js/assets/images/cats/todd_800x600.png"
+  ]
+}

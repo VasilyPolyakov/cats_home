@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "vaccinated": true,
+  "price": 100,
+  "name": "Lisa",
+  "breed": "Angora",
+  "gender": 0,
+  "birthday": 1273708800,
+  "description": "Very good and smart cat.",
+  "photos": [
+    "js/assets/images/cats/lisa_800x600.png"
+  ]
+}

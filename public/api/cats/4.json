@@ -1,0 +1,13 @@
+{
+  "id": 4,
+  "vaccinated": true,
+  "price": 130,
+  "name": "Marge",
+  "breed": "Mixed-breed",
+  "gender": 0,
+  "birthday": 1423699200,
+  "description": "Very good and patient cat.",
+  "photos": [
+    "js/assets/images/cats/marge_800x600.png"
+  ]
+}

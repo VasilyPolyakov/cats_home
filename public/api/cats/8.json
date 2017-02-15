@@ -1,0 +1,13 @@
+{
+  "id": 8,
+  "vaccinated": true,
+  "price": 180,
+  "name": " Krusty",
+  "breed": "Turkish Van",
+  "gender": 1,
+  "birthday": 1305244800,
+  "description": "Very good and gay cat.",
+  "photos": [
+    "js/assets/images/cats/krusty_800x600.png"
+  ]
+}

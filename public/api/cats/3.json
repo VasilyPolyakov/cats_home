@@ -1,0 +1,13 @@
+{
+  "id": 3,
+  "vaccinated": true,
+  "price": 150,
+  "name": "Homer",
+  "breed": "Mixed-breed",
+  "gender": 1,
+  "birthday": 1455235200,
+  "description": "Very good and lazy cat.",
+  "photos": [
+    "js/assets/images/cats/homer_800x600.png"
+  ]
+}

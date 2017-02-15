@@ -1,0 +1,7 @@
+<nav>
+    <ul class="pagination">
+        <% for(var i = options.firstPage; i < options.lastPage + 1; i++){%>
+        <li class="<%=i == options.currentPage ? 'active': ''%>"><a data-number-of-page="<%=i%>" class="pagination-link" href="javascript: void(0);"><%=i%></a></li>
+        <%}%>
+    </ul>
+</nav>

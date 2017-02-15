@@ -1,0 +1,22 @@
+<div class="container gallery-item-container">
+    <div class="item-info thumbnail">
+        <img src="<%=model.get('photos')[0]%>" alt="<%=model.get('name')%>">
+        <div class="item-info-description caption">
+            <h2><%=model.get('name')%></h2>
+            <ul>
+                <li><%=model.get('breed')%></li>
+                <li>Age: <%=model.getAgeString()%></li>
+                <li>Gender: <%=model.getGender()%></li>
+                <li>Vaccinated: <% if(model.get('vaccinated') == true) { %>
+                    <span class="glyphicon glyphicon-ok"></span>
+                    <% }else { %>
+                    <span class="glyphicon glyphicon-remove"></span>
+                    <%}%>
+                </li>
+                <li>Description: <%=model.get('description')%></li>
+            </ul>
+            <p><a onclick="alert('Not implemented!');" class="btn btn-primary" role="button">Buy for <%=
+                model.getPrice() %></a></p>
+        </div>
+    </div>
+</div>

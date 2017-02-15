@@ -1,0 +1,12 @@
+{
+  "id": 7,
+  "price": 180,
+  "vaccinated": true,
+  "name": "Moe",
+  "breed": "Siamese",
+  "gender": 1,
+  "birthday": 1336867200,
+  "photos": [
+    "js/assets/images/cats/moe_800x600.png"
+  ]
+}

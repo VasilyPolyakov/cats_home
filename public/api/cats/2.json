@@ -1,0 +1,13 @@
+{
+  "id": 2,
+  "vaccinated": true,
+  "price": 200,
+  "name": "Bart",
+  "breed": "Mixed-breed",
+  "gender": 1,
+  "birthday": 1273708800,
+  "description": "Very good and mischievous cat.",
+  "photos": [
+    "js/assets/images/cats/bart_800x600.png"
+  ]
+}
