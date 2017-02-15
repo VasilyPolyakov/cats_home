@@ -41,7 +41,7 @@ npm start
 ![architecture](docs/architecture.png)
 ## API
 
-This frontend application is compliant with following APIЖ
+This frontend application is compliant with following API:
 
 GET api/cats/cats.json - return list of cats model in json format
 
